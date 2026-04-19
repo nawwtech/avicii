@@ -19,5 +19,12 @@
     "owner_id": "7911271074",
     "type": "limited",
     "expired_at": 1776766761
+  },
+  {
+    "key": "DERACLAS-1HE5ULXO",
+    "bot_token": "naw",
+    "owner_id": "naw",
+    "type": "full",
+    "expired_at": 0
   }
 ]
